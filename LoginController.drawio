@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-05-07T14:06:02.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" version="13.0.8" etag="kn63zIEHpDtYjoGWvM2M" type="github"><diagram id="Lm92zZ21FxSIzizX6SOI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-07T14:15:08.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="ceUR3mQMwJFDNQ86QnLM" version="13.0.8" type="github">
+  <diagram id="Lm92zZ21FxSIzizX6SOI" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="viAxNkJqr_79UEI3ALDX-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Login Page&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="220" y="247.5" width="130" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Login Controller&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-6" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="viAxNkJqr_79UEI3ALDX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="330" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.015;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="viAxNkJqr_79UEI3ALDX-1" target="viAxNkJqr_79UEI3ALDX-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-8" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.046;exitY=0.506;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="viAxNkJqr_79UEI3ALDX-1" target="viAxNkJqr_79UEI3ALDX-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="390" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Personalized Home page&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="720" y="247.5" width="130" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-13" value="User&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-14" value="Enter credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="92" y="309" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-15" value="Calls login&lt;br&gt;controller" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="373.5" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-16" value="" style="endArrow=classic;html=1;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="viAxNkJqr_79UEI3ALDX-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="330" as="sourcePoint" />
+            <mxPoint x="710" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="viAxNkJqr_79UEI3ALDX-17" value="Redirect to&lt;br&gt;personalized&lt;br&gt;home page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="611" y="267" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
