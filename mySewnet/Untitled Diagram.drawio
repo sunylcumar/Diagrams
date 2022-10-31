@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T16:17:01.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="i-7T1TkTznCvRRNHn-hQ" type="github"><diagram id="wgHW7e4EUa4GgYDRs7Ng">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-31T17:06:12.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LpUuwKqRskOy9_BYz0fx" version="20.5.1" type="github">
+  <diagram id="wgHW7e4EUa4GgYDRs7Ng" name="Page-1">
+    <mxGraphModel dx="2897" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mvNzvA__HQaBql2vhhs9-19" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1040" y="-1000" width="910" height="573.3" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-911.61" width="110" height="122.06" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="-911.61" width="110" height="122.06" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-5" value="Project Creator" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-778.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-6" value="Library" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="-778.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-8" value="&lt;ul&gt;&lt;li&gt;Create Sewing Projects&lt;/li&gt;&lt;li&gt;Share with anyone&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-851" y="-738.35" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-10" value="&lt;ul&gt;&lt;li&gt;Purchase Embroidery Designs&lt;/li&gt;&lt;li&gt;Free Designs&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-591" y="-738.35" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vault;fillColor=#E05243;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="-666.35" width="109" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-12" value="Vault" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-775" y="-556.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-13" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.help;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-526" y="-656.35" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-14" value="Help" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-521" y="-556.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-15" value="(https://projectcreator.mysewnet.com)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-850" y="-748.35" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-17" value="(https://library.mysewnet.com)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-581" y="-748.35" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-18" value="(https:vault.mysewnet.com)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-831" y="-528.35" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-25" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-918.95" width="617.38" height="388.95" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-20" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-911.61" width="110" height="122.06" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-21" value="mySewnet" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-778.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-23" value="(https://mysewnet.com)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="110" y="-748.35" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-24" value="&lt;ul&gt;&lt;li&gt;mySewnet Subscriptions&lt;/li&gt;&lt;li&gt;Promotion codes&lt;/li&gt;&lt;li&gt;Perpetual Licenses&lt;/li&gt;&lt;li&gt;Renewals&lt;/li&gt;&lt;li&gt;Upgrades&lt;/li&gt;&lt;li&gt;Downgrades&lt;/li&gt;&lt;li&gt;Invoices&lt;/li&gt;&lt;li&gt;Customer Dashboard&lt;/li&gt;&lt;li&gt;Purchases&lt;/li&gt;&lt;li&gt;mySewnet Cloud&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="-738.35" width="205" height="188.35" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-30" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="484" y="-923.11" width="566.28" height="356.76" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-26" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-900.41" width="110" height="122.06" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-27" value="Recurly" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="705" y="-778.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-28" value="(https://mysewnet.recurly.com)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="-748.35" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-29" value="&lt;ul&gt;&lt;li&gt;Manage Subscriptions&lt;/li&gt;&lt;li&gt;Manage Coupons&lt;/li&gt;&lt;li&gt;Manage Payments&lt;/li&gt;&lt;li&gt;Manage Invoices&lt;/li&gt;&lt;li&gt;Sales Reports&lt;/li&gt;&lt;li&gt;Emails&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="672.5" y="-730" width="185" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-900.41" width="110" height="122.06" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-33" value="CyberSource" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="-778.35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-34" value="https://ebc2.cybersource.com/ebc2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-748.35" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-35" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="-710" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
