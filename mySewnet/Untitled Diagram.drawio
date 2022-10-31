@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T17:06:12.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LpUuwKqRskOy9_BYz0fx" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T17:49:46.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="F0tnCfiVCLTOT3MwhRHO" version="20.5.1" type="github">
   <diagram id="wgHW7e4EUa4GgYDRs7Ng" name="Page-1">
     <mxGraphModel dx="2897" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
@@ -76,6 +76,9 @@
         <mxCell id="mvNzvA__HQaBql2vhhs9-29" value="&lt;ul&gt;&lt;li&gt;Manage Subscriptions&lt;/li&gt;&lt;li&gt;Manage Coupons&lt;/li&gt;&lt;li&gt;Manage Payments&lt;/li&gt;&lt;li&gt;Manage Invoices&lt;/li&gt;&lt;li&gt;Sales Reports&lt;/li&gt;&lt;li&gt;Emails&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="672.5" y="-730" width="185" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-36" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="-911.61" width="474.52" height="298.95" as="geometry" />
+        </mxCell>
         <mxCell id="mvNzvA__HQaBql2vhhs9-32" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application;fillColor=#4286c5;strokeColor=#57A2D8;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1300" y="-900.41" width="110" height="122.06" as="geometry" />
         </mxCell>
@@ -85,8 +88,8 @@
         <mxCell id="mvNzvA__HQaBql2vhhs9-34" value="https://ebc2.cybersource.com/ebc2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1230" y="-748.35" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mvNzvA__HQaBql2vhhs9-35" value="&lt;ul&gt;&lt;li&gt;Value 1&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="-710" width="100" height="80" as="geometry" />
+        <mxCell id="mvNzvA__HQaBql2vhhs9-35" value="&lt;ul&gt;&lt;li&gt;Tokenize Payment Methods&lt;/li&gt;&lt;li&gt;Authorize Payments&lt;/li&gt;&lt;li&gt;Collect Payments&lt;/li&gt;&lt;li&gt;Refunds&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1242.5" y="-738.35" width="225" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
