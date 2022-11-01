@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T17:50:32.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yEalxqK2KjvERv2eHXPd" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T10:38:09.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nUgxLBZxyXAeqfrMv1hJ" version="20.5.1" type="github">
   <diagram id="wgHW7e4EUa4GgYDRs7Ng" name="Page-1">
-    <mxGraphModel dx="2897" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
+    <mxGraphModel dx="3571" dy="3215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,18 @@
         </mxCell>
         <mxCell id="mvNzvA__HQaBql2vhhs9-35" value="&lt;ul&gt;&lt;li&gt;Tokenize Payment Methods&lt;/li&gt;&lt;li&gt;Authorize Payments&lt;/li&gt;&lt;li&gt;Collect Payments&lt;/li&gt;&lt;li&gt;Refunds&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1242.5" y="-738.35" width="225" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-37" value="AWS (Managed by R&amp;amp;D)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-631" y="-1040" width="301" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-38" value="Azure (Optimizely DXP)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-970" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-39" value="Recurly Cloud" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="685" y="-970" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mvNzvA__HQaBql2vhhs9-40" value="CyberSource Cloud" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="-970" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
